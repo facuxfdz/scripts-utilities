@@ -6,4 +6,4 @@
 ### Commands  
 
 #### dckrmall  
-This command will remove all docker containers that are printed in the ```docker ps -a``` command
+This command will remove all docker containers printed by the ```docker ps -a``` command
