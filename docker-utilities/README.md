@@ -6,7 +6,7 @@
 ### Commands  
 
 #### dckrmall  
-This command will remove all docker containers printed by the ```docker ps -a``` command
+This command will remove all docker containers printed by the ```docker ps -a``` command  
 In order to have a colorized output, environment variables must be declared, the used in the script are the following  
 
 |Environment variable name   |String value   |
